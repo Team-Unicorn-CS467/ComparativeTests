@@ -7,6 +7,6 @@
 | PC4 | Output | SysTick Signal to LA |
 | PC5 | Output | Sched Signal to LA |
 | PC6 | Input  | External Interrupt |
-| PC7 | Output | Available|
+| PC7 | Output | Task(s) Signal to LA |
 | PD6 | Output | Available |
 | PD7 | Output | Available |
