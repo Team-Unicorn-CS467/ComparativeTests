@@ -11,4 +11,4 @@
 | PD6 | Output | Available |
 | PD7 | Output | Available |
 | PE4 | Input  | UART Rx Line |
-| P35 | Output | UART Tx Line |
+| PE5 | Output | UART Tx Line |
